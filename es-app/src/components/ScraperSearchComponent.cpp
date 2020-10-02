@@ -235,7 +235,7 @@ void ScraperSearchComponent::onSearchDone(const std::vector<ScraperSearchResult>
 		if (!isValidConfiguredScraper())
 		{
 			mWindow->pushGui(new GuiMsgBox(mWindow, Utils::String::toUpper("El scraper configurado ya no está disponible.\nPor favor, cambie la fuente del scraper en la configuración."),
-				"FINISH", mSkipCallback));
+				"FINALIZAR", mSkipCallback));
 		}
 		else
 		{
