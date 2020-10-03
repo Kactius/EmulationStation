@@ -1,7 +1,7 @@
 EmulationStationSpanish
 ================
-I only have the intention to translate the code  of RetroPie/emulationstation to Spanish language
-
+I only have the intention to translate the code  of RetroPie/emulationstation to Spanish language in this fork.
+Thanks to Jcarliman, Julenvitoria and bitstuffing.
 This is a fork of EmulationStation for RetroPie.
 EmulationStation is a cross-platform graphical front-end for emulators with controller navigation.
 
