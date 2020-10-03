@@ -327,7 +327,7 @@ int main(int argc, char* argv[])
 		{
 			std::string progressText = "Cargando...";
 			if (splashScreenProgress)
-				progressText = "Cargando la configuración del sistema ...";
+				progressText = "CARGANDO ☠ PLATA O ROMS ☠ Prohibida su venta";
 			window.renderLoadingScreen(progressText);
 		}
 	}
