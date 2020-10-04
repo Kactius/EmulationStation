@@ -40,7 +40,7 @@ git clone --recursive https://github.com/RetroPie/EmulationStation.git
 or 
 
 ```bash
-git clone https://github.com/RetroPie/EmulationStation.git
+git clone https://github.com//Kactius/EmulationStationSpanish.git
 cd EmulationStation
 git submodule update --init
 ```
