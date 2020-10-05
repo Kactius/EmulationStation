@@ -222,7 +222,7 @@ bool loadSystemConfigFile(const char** errorString)
 	{
 		LOG(LogError) << "Error while parsing systems configuration file!";
 		*errorString = "PACECE SER QUE EL ARCHIVO DE CONFIGURACIÓN DE SISTEMAS NO FUE CONFIGURADO O ES INVÁLIDO. DESAFORTUNADAMENTE NECESITARÁ HACERLO DE NUEVO.\n\n"
-			"VISITE EMULATIONSTATION.ORG PARA OBTENER MÁS INFORMACIÓN
+			"VISITE EMULATIONSTATION.ORG PARA OBTENER MÁS INFORMACIÓN.";
 		return false;
 	}
 
