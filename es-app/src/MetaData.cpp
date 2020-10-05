@@ -20,8 +20,8 @@ MetaDataDecl gameDecls[] = {
 	{"genre",       MD_STRING,              "unknown",          false,      "genero",                "genero del juego"},
 	{"players",     MD_INT,                 "1",                false,      "jugadores",              "numero de jugadores"},
 	{"favorite",    MD_BOOL,                "false",            false,      "favoritos",             "favorito off/on"},
-	{"hidden",      MD_BOOL,                "false",            false,      "oculto",               "oculto off/on" },
-	{"kidgame",     MD_BOOL,                "false",            false,      "infantil kidgame",              "juego infantil off/on" },
+	{"hidden",      MD_BOOL,                "false",            false,      "oculto",               "oculto off/on"},
+	{"kidgame",     MD_BOOL,                "false",            false,      "infantil kidgame",              "juego infantil off/on"},
 	{"playcount",   MD_INT,                 "0",                true,       "veces jugado",           "numero de veces jugado"},
 	{"lastplayed",  MD_TIME,                "0",                true,       "jugado por ultima vez",          "fecha de ultima partida"}
 };
